@@ -49,7 +49,7 @@
 你可以通过网站 [在线阅读](https://py-101.github.io/python-data-science/) 并复现书中内容。
 
 或者参考 [构建指南](info/info.md) 来了解如何构建本项目的本地版本。
- 
+
 ## 贡献指南
 
 我们欢迎大家来一起贡献和更新本教程。
@@ -60,7 +60,7 @@
 
 写作、图片、代码的风格要求请参考 [样式规范](info/style.md)。
 
-初次贡献本项目时，请参考本项目的 [贡献指南](info/pr_help.md) 构建项目。
+初次贡献本项目时，请参考本项目的 [构建指南](info/nfo.md) 构建项目。
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
